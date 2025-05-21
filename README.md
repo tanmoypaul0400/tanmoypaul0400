@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanmoy Paul 
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data
+- 🌱 I’m currently learning more about Data
 - 💞️ I’m looking to collaborate on Data Analytics or Data science 
   
   
